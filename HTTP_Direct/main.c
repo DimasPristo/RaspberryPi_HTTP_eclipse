@@ -5,13 +5,6 @@
  *      Author: pi
  */
 
-//#include <stdlib.h>
-//int main(){
-//	printf("BISMILLAH \n");
-//	system("curl  https://skin-peoplecontrol.cubeacon.com/api/dispenser/wjNPpe4kxq/1625553962");
-//	return 0;
-//}
-
 #include <stdio.h>
 #include <curl/curl.h>
 #include <json-c/json.h>
